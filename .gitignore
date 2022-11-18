@@ -1,0 +1,15 @@
+#Venv
+venv/
+.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+#Database
+*.sqlite3
+
+*.pyc
+*.zip
+.zip
+*.zip
